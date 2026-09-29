@@ -90,8 +90,6 @@ Grade-Calculator/
 The project can be improved in the future by adding multiple subjects, student details, student records, a graphical user interface, and data storage.
 
 ## Author
-Ritikka Sinha
-
-Project = Grade Calculator
-
+Ritikka Sinha\
+Project = Grade Calculator\
 Language : python
